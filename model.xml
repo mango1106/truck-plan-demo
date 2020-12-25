@@ -10,15 +10,6 @@
         name="北部湾投资集团供应链平台"
         founded="now()"
     />
-	
-	
-	
-
-
-	
-
-
-
 	<bidding_plan_xmjsfs _name='招标计划填写项目结算方式' name='字符串|[0,8]' code='字符串|[0,8]' _vg4platform='基础数据' _features='setting' platform='platform()' />
 	<bidding_plan_xmfl _name='招标计划填写项目分类' name='字符串|[0,8]' code='字符串|[0,8]' _vg4platform='基础数据' _features='setting' platform='platform()' />
 	<bidding_plan_zbfs _name='招标计划填写招标方式' name='字符串|[0,8]' code='字符串|[0,8]' _vg4platform='基础数据' _features='setting' platform='platform()' />
